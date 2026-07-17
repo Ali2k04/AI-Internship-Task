@@ -1,0 +1,1001 @@
+text,language
+How are you?,English
+Good morning,English
+Good evening,English
+Good night,English
+Thank you,English
+You're welcome,English
+See you later,English
+Nice to meet you,English
+Have a nice day,English
+What is your name?,English
+My name is John.,English
+Where do you live?,English
+I live in Pakistan.,English
+I love programming.,English
+Python is easy.,English
+Machine learning is fun.,English
+Artificial Intelligence is amazing.,English
+Open the door.,English
+Close the window.,English
+Can you help me?,English
+آپ کیسے ہیں؟,Urdu
+صبح بخیر,Urdu
+شام بخیر,Urdu
+شب بخیر,Urdu
+شکریہ,Urdu
+خوش آمدید,Urdu
+پھر ملیں گے,Urdu
+آپ سے مل کر خوشی ہوئی۔,Urdu
+آپ کا دن اچھا گزرے۔,Urdu
+آپ کا نام کیا ہے؟,Urdu
+میرا نام علی ہے۔,Urdu
+آپ کہاں رہتے ہیں؟,Urdu
+میں پاکستان میں رہتا ہوں۔,Urdu
+مجھے پروگرامنگ پسند ہے۔,Urdu
+پائتھن آسان ہے۔,Urdu
+مشین لرننگ دلچسپ ہے۔,Urdu
+مصنوعی ذہانت حیرت انگیز ہے۔,Urdu
+دروازہ کھولو۔,Urdu
+کھڑکی بند کرو۔,Urdu
+کیا آپ میری مدد کر سکتے ہیں؟,Urdu
+¿Cómo estás?,Spanish
+Buenos días,Spanish
+Buenas tardes,Spanish
+Buenas noches,Spanish
+Gracias,Spanish
+De nada,Spanish
+Hasta luego,Spanish
+Mucho gusto,Spanish
+Que tengas un buen día,Spanish
+¿Cómo te llamas?,Spanish
+Me llamo Juan.,Spanish
+¿Dónde vives?,Spanish
+Vivo en Pakistán.,Spanish
+Me encanta programar.,Spanish
+Python es fácil.,Spanish
+El aprendizaje automático es divertido.,Spanish
+La inteligencia artificial es increíble.,Spanish
+Abre la puerta.,Spanish
+Cierra la ventana.,Spanish
+¿Puedes ayudarme?,Spanish
+Comment ça va ?,French
+Bonjour,French
+Bonsoir,French
+Bonne nuit,French
+Merci,French
+Je vous en prie.,French
+À bientôt.,French
+Enchanté de vous rencontrer.,French
+Passez une bonne journée.,French
+Comment vous appelez-vous ?,French
+Je m'appelle Jean.,French
+Où habitez-vous ?,French
+J'habite au Pakistan.,French
+J'aime programmer.,French
+Python est facile.,French
+L'apprentissage automatique est amusant.,French
+L'intelligence artificielle est incroyable.,French
+Ouvrez la porte.,French
+Fermez la fenêtre.,French
+Pouvez-vous m'aider ?,French
+Wie geht es dir?,German
+Guten Morgen,German
+Guten Abend,German
+Gute Nacht,German
+Danke,German
+Bitte schön.,German
+Bis später.,German
+Freut mich dich kennenzulernen.,German
+Schönen Tag noch.,German
+Wie heißt du?,German
+Ich heiße Hans.,German
+Wo wohnst du?,German
+Ich wohne in Pakistan.,German
+Ich programmiere gern.,German
+Python ist einfach.,German
+Maschinelles Lernen macht Spaß.,German
+Künstliche Intelligenz ist erstaunlich.,German
+Öffne die Tür.,German
+Schließe das Fenster.,German
+Kannst du mir helfen?,German
+How are you?,English
+Good morning,English
+Good evening,English
+Good night,English
+Thank you,English
+You're welcome,English
+See you later,English
+Nice to meet you,English
+Have a nice day,English
+What is your name?,English
+My name is John.,English
+Where do you live?,English
+I live in Pakistan.,English
+I love programming.,English
+Python is easy.,English
+Machine learning is fun.,English
+Artificial Intelligence is amazing.,English
+Open the door.,English
+Close the window.,English
+Can you help me?,English
+آپ کیسے ہیں؟,Urdu
+صبح بخیر,Urdu
+شام بخیر,Urdu
+شب بخیر,Urdu
+شکریہ,Urdu
+خوش آمدید,Urdu
+پھر ملیں گے,Urdu
+آپ سے مل کر خوشی ہوئی۔,Urdu
+آپ کا دن اچھا گزرے۔,Urdu
+آپ کا نام کیا ہے؟,Urdu
+میرا نام علی ہے۔,Urdu
+آپ کہاں رہتے ہیں؟,Urdu
+میں پاکستان میں رہتا ہوں۔,Urdu
+مجھے پروگرامنگ پسند ہے۔,Urdu
+پائتھن آسان ہے۔,Urdu
+مشین لرننگ دلچسپ ہے۔,Urdu
+مصنوعی ذہانت حیرت انگیز ہے۔,Urdu
+دروازہ کھولو۔,Urdu
+کھڑکی بند کرو۔,Urdu
+کیا آپ میری مدد کر سکتے ہیں؟,Urdu
+¿Cómo estás?,Spanish
+Buenos días,Spanish
+Buenas tardes,Spanish
+Buenas noches,Spanish
+Gracias,Spanish
+De nada,Spanish
+Hasta luego,Spanish
+Mucho gusto,Spanish
+Que tengas un buen día,Spanish
+¿Cómo te llamas?,Spanish
+Me llamo Juan.,Spanish
+¿Dónde vives?,Spanish
+Vivo en Pakistán.,Spanish
+Me encanta programar.,Spanish
+Python es fácil.,Spanish
+El aprendizaje automático es divertido.,Spanish
+La inteligencia artificial es increíble.,Spanish
+Abre la puerta.,Spanish
+Cierra la ventana.,Spanish
+¿Puedes ayudarme?,Spanish
+Comment ça va ?,French
+Bonjour,French
+Bonsoir,French
+Bonne nuit,French
+Merci,French
+Je vous en prie.,French
+À bientôt.,French
+Enchanté de vous rencontrer.,French
+Passez une bonne journée.,French
+Comment vous appelez-vous ?,French
+Je m'appelle Jean.,French
+Où habitez-vous ?,French
+J'habite au Pakistan.,French
+J'aime programmer.,French
+Python est facile.,French
+L'apprentissage automatique est amusant.,French
+L'intelligence artificielle est incroyable.,French
+Ouvrez la porte.,French
+Fermez la fenêtre.,French
+Pouvez-vous m'aider ?,French
+Wie geht es dir?,German
+Guten Morgen,German
+Guten Abend,German
+Gute Nacht,German
+Danke,German
+Bitte schön.,German
+Bis später.,German
+Freut mich dich kennenzulernen.,German
+Schönen Tag noch.,German
+Wie heißt du?,German
+Ich heiße Hans.,German
+Wo wohnst du?,German
+Ich wohne in Pakistan.,German
+Ich programmiere gern.,German
+Python ist einfach.,German
+Maschinelles Lernen macht Spaß.,German
+Künstliche Intelligenz ist erstaunlich.,German
+Öffne die Tür.,German
+Schließe das Fenster.,German
+Kannst du mir helfen?,German
+How are you?,English
+Good morning,English
+Good evening,English
+Good night,English
+Thank you,English
+You're welcome,English
+See you later,English
+Nice to meet you,English
+Have a nice day,English
+What is your name?,English
+My name is John.,English
+Where do you live?,English
+I live in Pakistan.,English
+I love programming.,English
+Python is easy.,English
+Machine learning is fun.,English
+Artificial Intelligence is amazing.,English
+Open the door.,English
+Close the window.,English
+Can you help me?,English
+آپ کیسے ہیں؟,Urdu
+صبح بخیر,Urdu
+شام بخیر,Urdu
+شب بخیر,Urdu
+شکریہ,Urdu
+خوش آمدید,Urdu
+پھر ملیں گے,Urdu
+آپ سے مل کر خوشی ہوئی۔,Urdu
+آپ کا دن اچھا گزرے۔,Urdu
+آپ کا نام کیا ہے؟,Urdu
+میرا نام علی ہے۔,Urdu
+آپ کہاں رہتے ہیں؟,Urdu
+میں پاکستان میں رہتا ہوں۔,Urdu
+مجھے پروگرامنگ پسند ہے۔,Urdu
+پائتھن آسان ہے۔,Urdu
+مشین لرننگ دلچسپ ہے۔,Urdu
+مصنوعی ذہانت حیرت انگیز ہے۔,Urdu
+دروازہ کھولو۔,Urdu
+کھڑکی بند کرو۔,Urdu
+کیا آپ میری مدد کر سکتے ہیں؟,Urdu
+¿Cómo estás?,Spanish
+Buenos días,Spanish
+Buenas tardes,Spanish
+Buenas noches,Spanish
+Gracias,Spanish
+De nada,Spanish
+Hasta luego,Spanish
+Mucho gusto,Spanish
+Que tengas un buen día,Spanish
+¿Cómo te llamas?,Spanish
+Me llamo Juan.,Spanish
+¿Dónde vives?,Spanish
+Vivo en Pakistán.,Spanish
+Me encanta programar.,Spanish
+Python es fácil.,Spanish
+El aprendizaje automático es divertido.,Spanish
+La inteligencia artificial es increíble.,Spanish
+Abre la puerta.,Spanish
+Cierra la ventana.,Spanish
+¿Puedes ayudarme?,Spanish
+Comment ça va ?,French
+Bonjour,French
+Bonsoir,French
+Bonne nuit,French
+Merci,French
+Je vous en prie.,French
+À bientôt.,French
+Enchanté de vous rencontrer.,French
+Passez une bonne journée.,French
+Comment vous appelez-vous ?,French
+Je m'appelle Jean.,French
+Où habitez-vous ?,French
+J'habite au Pakistan.,French
+J'aime programmer.,French
+Python est facile.,French
+L'apprentissage automatique est amusant.,French
+L'intelligence artificielle est incroyable.,French
+Ouvrez la porte.,French
+Fermez la fenêtre.,French
+Pouvez-vous m'aider ?,French
+Wie geht es dir?,German
+Guten Morgen,German
+Guten Abend,German
+Gute Nacht,German
+Danke,German
+Bitte schön.,German
+Bis später.,German
+Freut mich dich kennenzulernen.,German
+Schönen Tag noch.,German
+Wie heißt du?,German
+Ich heiße Hans.,German
+Wo wohnst du?,German
+Ich wohne in Pakistan.,German
+Ich programmiere gern.,German
+Python ist einfach.,German
+Maschinelles Lernen macht Spaß.,German
+Künstliche Intelligenz ist erstaunlich.,German
+Öffne die Tür.,German
+Schließe das Fenster.,German
+Kannst du mir helfen?,German
+How are you?,English
+Good morning,English
+Good evening,English
+Good night,English
+Thank you,English
+You're welcome,English
+See you later,English
+Nice to meet you,English
+Have a nice day,English
+What is your name?,English
+My name is John.,English
+Where do you live?,English
+I live in Pakistan.,English
+I love programming.,English
+Python is easy.,English
+Machine learning is fun.,English
+Artificial Intelligence is amazing.,English
+Open the door.,English
+Close the window.,English
+Can you help me?,English
+آپ کیسے ہیں؟,Urdu
+صبح بخیر,Urdu
+شام بخیر,Urdu
+شب بخیر,Urdu
+شکریہ,Urdu
+خوش آمدید,Urdu
+پھر ملیں گے,Urdu
+آپ سے مل کر خوشی ہوئی۔,Urdu
+آپ کا دن اچھا گزرے۔,Urdu
+آپ کا نام کیا ہے؟,Urdu
+میرا نام علی ہے۔,Urdu
+آپ کہاں رہتے ہیں؟,Urdu
+میں پاکستان میں رہتا ہوں۔,Urdu
+مجھے پروگرامنگ پسند ہے۔,Urdu
+پائتھن آسان ہے۔,Urdu
+مشین لرننگ دلچسپ ہے۔,Urdu
+مصنوعی ذہانت حیرت انگیز ہے۔,Urdu
+دروازہ کھولو۔,Urdu
+کھڑکی بند کرو۔,Urdu
+کیا آپ میری مدد کر سکتے ہیں؟,Urdu
+¿Cómo estás?,Spanish
+Buenos días,Spanish
+Buenas tardes,Spanish
+Buenas noches,Spanish
+Gracias,Spanish
+De nada,Spanish
+Hasta luego,Spanish
+Mucho gusto,Spanish
+Que tengas un buen día,Spanish
+¿Cómo te llamas?,Spanish
+Me llamo Juan.,Spanish
+¿Dónde vives?,Spanish
+Vivo en Pakistán.,Spanish
+Me encanta programar.,Spanish
+Python es fácil.,Spanish
+El aprendizaje automático es divertido.,Spanish
+La inteligencia artificial es increíble.,Spanish
+Abre la puerta.,Spanish
+Cierra la ventana.,Spanish
+¿Puedes ayudarme?,Spanish
+Comment ça va ?,French
+Bonjour,French
+Bonsoir,French
+Bonne nuit,French
+Merci,French
+Je vous en prie.,French
+À bientôt.,French
+Enchanté de vous rencontrer.,French
+Passez une bonne journée.,French
+Comment vous appelez-vous ?,French
+Je m'appelle Jean.,French
+Où habitez-vous ?,French
+J'habite au Pakistan.,French
+J'aime programmer.,French
+Python est facile.,French
+L'apprentissage automatique est amusant.,French
+L'intelligence artificielle est incroyable.,French
+Ouvrez la porte.,French
+Fermez la fenêtre.,French
+Pouvez-vous m'aider ?,French
+Wie geht es dir?,German
+Guten Morgen,German
+Guten Abend,German
+Gute Nacht,German
+Danke,German
+Bitte schön.,German
+Bis später.,German
+Freut mich dich kennenzulernen.,German
+Schönen Tag noch.,German
+Wie heißt du?,German
+Ich heiße Hans.,German
+Wo wohnst du?,German
+Ich wohne in Pakistan.,German
+Ich programmiere gern.,German
+Python ist einfach.,German
+Maschinelles Lernen macht Spaß.,German
+Künstliche Intelligenz ist erstaunlich.,German
+Öffne die Tür.,German
+Schließe das Fenster.,German
+Kannst du mir helfen?,German
+How are you?,English
+Good morning,English
+Good evening,English
+Good night,English
+Thank you,English
+You're welcome,English
+See you later,English
+Nice to meet you,English
+Have a nice day,English
+What is your name?,English
+My name is John.,English
+Where do you live?,English
+I live in Pakistan.,English
+I love programming.,English
+Python is easy.,English
+Machine learning is fun.,English
+Artificial Intelligence is amazing.,English
+Open the door.,English
+Close the window.,English
+Can you help me?,English
+آپ کیسے ہیں؟,Urdu
+صبح بخیر,Urdu
+شام بخیر,Urdu
+شب بخیر,Urdu
+شکریہ,Urdu
+خوش آمدید,Urdu
+پھر ملیں گے,Urdu
+آپ سے مل کر خوشی ہوئی۔,Urdu
+آپ کا دن اچھا گزرے۔,Urdu
+آپ کا نام کیا ہے؟,Urdu
+میرا نام علی ہے۔,Urdu
+آپ کہاں رہتے ہیں؟,Urdu
+میں پاکستان میں رہتا ہوں۔,Urdu
+مجھے پروگرامنگ پسند ہے۔,Urdu
+پائتھن آسان ہے۔,Urdu
+مشین لرننگ دلچسپ ہے۔,Urdu
+مصنوعی ذہانت حیرت انگیز ہے۔,Urdu
+دروازہ کھولو۔,Urdu
+کھڑکی بند کرو۔,Urdu
+کیا آپ میری مدد کر سکتے ہیں؟,Urdu
+¿Cómo estás?,Spanish
+Buenos días,Spanish
+Buenas tardes,Spanish
+Buenas noches,Spanish
+Gracias,Spanish
+De nada,Spanish
+Hasta luego,Spanish
+Mucho gusto,Spanish
+Que tengas un buen día,Spanish
+¿Cómo te llamas?,Spanish
+Me llamo Juan.,Spanish
+¿Dónde vives?,Spanish
+Vivo en Pakistán.,Spanish
+Me encanta programar.,Spanish
+Python es fácil.,Spanish
+El aprendizaje automático es divertido.,Spanish
+La inteligencia artificial es increíble.,Spanish
+Abre la puerta.,Spanish
+Cierra la ventana.,Spanish
+¿Puedes ayudarme?,Spanish
+Comment ça va ?,French
+Bonjour,French
+Bonsoir,French
+Bonne nuit,French
+Merci,French
+Je vous en prie.,French
+À bientôt.,French
+Enchanté de vous rencontrer.,French
+Passez une bonne journée.,French
+Comment vous appelez-vous ?,French
+Je m'appelle Jean.,French
+Où habitez-vous ?,French
+J'habite au Pakistan.,French
+J'aime programmer.,French
+Python est facile.,French
+L'apprentissage automatique est amusant.,French
+L'intelligence artificielle est incroyable.,French
+Ouvrez la porte.,French
+Fermez la fenêtre.,French
+Pouvez-vous m'aider ?,French
+Wie geht es dir?,German
+Guten Morgen,German
+Guten Abend,German
+Gute Nacht,German
+Danke,German
+Bitte schön.,German
+Bis später.,German
+Freut mich dich kennenzulernen.,German
+Schönen Tag noch.,German
+Wie heißt du?,German
+Ich heiße Hans.,German
+Wo wohnst du?,German
+Ich wohne in Pakistan.,German
+Ich programmiere gern.,German
+Python ist einfach.,German
+Maschinelles Lernen macht Spaß.,German
+Künstliche Intelligenz ist erstaunlich.,German
+Öffne die Tür.,German
+Schließe das Fenster.,German
+Kannst du mir helfen?,German
+How are you?,English
+Good morning,English
+Good evening,English
+Good night,English
+Thank you,English
+You're welcome,English
+See you later,English
+Nice to meet you,English
+Have a nice day,English
+What is your name?,English
+My name is John.,English
+Where do you live?,English
+I live in Pakistan.,English
+I love programming.,English
+Python is easy.,English
+Machine learning is fun.,English
+Artificial Intelligence is amazing.,English
+Open the door.,English
+Close the window.,English
+Can you help me?,English
+آپ کیسے ہیں؟,Urdu
+صبح بخیر,Urdu
+شام بخیر,Urdu
+شب بخیر,Urdu
+شکریہ,Urdu
+خوش آمدید,Urdu
+پھر ملیں گے,Urdu
+آپ سے مل کر خوشی ہوئی۔,Urdu
+آپ کا دن اچھا گزرے۔,Urdu
+آپ کا نام کیا ہے؟,Urdu
+میرا نام علی ہے۔,Urdu
+آپ کہاں رہتے ہیں؟,Urdu
+میں پاکستان میں رہتا ہوں۔,Urdu
+مجھے پروگرامنگ پسند ہے۔,Urdu
+پائتھن آسان ہے۔,Urdu
+مشین لرننگ دلچسپ ہے۔,Urdu
+مصنوعی ذہانت حیرت انگیز ہے۔,Urdu
+دروازہ کھولو۔,Urdu
+کھڑکی بند کرو۔,Urdu
+کیا آپ میری مدد کر سکتے ہیں؟,Urdu
+¿Cómo estás?,Spanish
+Buenos días,Spanish
+Buenas tardes,Spanish
+Buenas noches,Spanish
+Gracias,Spanish
+De nada,Spanish
+Hasta luego,Spanish
+Mucho gusto,Spanish
+Que tengas un buen día,Spanish
+¿Cómo te llamas?,Spanish
+Me llamo Juan.,Spanish
+¿Dónde vives?,Spanish
+Vivo en Pakistán.,Spanish
+Me encanta programar.,Spanish
+Python es fácil.,Spanish
+El aprendizaje automático es divertido.,Spanish
+La inteligencia artificial es increíble.,Spanish
+Abre la puerta.,Spanish
+Cierra la ventana.,Spanish
+¿Puedes ayudarme?,Spanish
+Comment ça va ?,French
+Bonjour,French
+Bonsoir,French
+Bonne nuit,French
+Merci,French
+Je vous en prie.,French
+À bientôt.,French
+Enchanté de vous rencontrer.,French
+Passez une bonne journée.,French
+Comment vous appelez-vous ?,French
+Je m'appelle Jean.,French
+Où habitez-vous ?,French
+J'habite au Pakistan.,French
+J'aime programmer.,French
+Python est facile.,French
+L'apprentissage automatique est amusant.,French
+L'intelligence artificielle est incroyable.,French
+Ouvrez la porte.,French
+Fermez la fenêtre.,French
+Pouvez-vous m'aider ?,French
+Wie geht es dir?,German
+Guten Morgen,German
+Guten Abend,German
+Gute Nacht,German
+Danke,German
+Bitte schön.,German
+Bis später.,German
+Freut mich dich kennenzulernen.,German
+Schönen Tag noch.,German
+Wie heißt du?,German
+Ich heiße Hans.,German
+Wo wohnst du?,German
+Ich wohne in Pakistan.,German
+Ich programmiere gern.,German
+Python ist einfach.,German
+Maschinelles Lernen macht Spaß.,German
+Künstliche Intelligenz ist erstaunlich.,German
+Öffne die Tür.,German
+Schließe das Fenster.,German
+Kannst du mir helfen?,German
+How are you?,English
+Good morning,English
+Good evening,English
+Good night,English
+Thank you,English
+You're welcome,English
+See you later,English
+Nice to meet you,English
+Have a nice day,English
+What is your name?,English
+My name is John.,English
+Where do you live?,English
+I live in Pakistan.,English
+I love programming.,English
+Python is easy.,English
+Machine learning is fun.,English
+Artificial Intelligence is amazing.,English
+Open the door.,English
+Close the window.,English
+Can you help me?,English
+آپ کیسے ہیں؟,Urdu
+صبح بخیر,Urdu
+شام بخیر,Urdu
+شب بخیر,Urdu
+شکریہ,Urdu
+خوش آمدید,Urdu
+پھر ملیں گے,Urdu
+آپ سے مل کر خوشی ہوئی۔,Urdu
+آپ کا دن اچھا گزرے۔,Urdu
+آپ کا نام کیا ہے؟,Urdu
+میرا نام علی ہے۔,Urdu
+آپ کہاں رہتے ہیں؟,Urdu
+میں پاکستان میں رہتا ہوں۔,Urdu
+مجھے پروگرامنگ پسند ہے۔,Urdu
+پائتھن آسان ہے۔,Urdu
+مشین لرننگ دلچسپ ہے۔,Urdu
+مصنوعی ذہانت حیرت انگیز ہے۔,Urdu
+دروازہ کھولو۔,Urdu
+کھڑکی بند کرو۔,Urdu
+کیا آپ میری مدد کر سکتے ہیں؟,Urdu
+¿Cómo estás?,Spanish
+Buenos días,Spanish
+Buenas tardes,Spanish
+Buenas noches,Spanish
+Gracias,Spanish
+De nada,Spanish
+Hasta luego,Spanish
+Mucho gusto,Spanish
+Que tengas un buen día,Spanish
+¿Cómo te llamas?,Spanish
+Me llamo Juan.,Spanish
+¿Dónde vives?,Spanish
+Vivo en Pakistán.,Spanish
+Me encanta programar.,Spanish
+Python es fácil.,Spanish
+El aprendizaje automático es divertido.,Spanish
+La inteligencia artificial es increíble.,Spanish
+Abre la puerta.,Spanish
+Cierra la ventana.,Spanish
+¿Puedes ayudarme?,Spanish
+Comment ça va ?,French
+Bonjour,French
+Bonsoir,French
+Bonne nuit,French
+Merci,French
+Je vous en prie.,French
+À bientôt.,French
+Enchanté de vous rencontrer.,French
+Passez une bonne journée.,French
+Comment vous appelez-vous ?,French
+Je m'appelle Jean.,French
+Où habitez-vous ?,French
+J'habite au Pakistan.,French
+J'aime programmer.,French
+Python est facile.,French
+L'apprentissage automatique est amusant.,French
+L'intelligence artificielle est incroyable.,French
+Ouvrez la porte.,French
+Fermez la fenêtre.,French
+Pouvez-vous m'aider ?,French
+Wie geht es dir?,German
+Guten Morgen,German
+Guten Abend,German
+Gute Nacht,German
+Danke,German
+Bitte schön.,German
+Bis später.,German
+Freut mich dich kennenzulernen.,German
+Schönen Tag noch.,German
+Wie heißt du?,German
+Ich heiße Hans.,German
+Wo wohnst du?,German
+Ich wohne in Pakistan.,German
+Ich programmiere gern.,German
+Python ist einfach.,German
+Maschinelles Lernen macht Spaß.,German
+Künstliche Intelligenz ist erstaunlich.,German
+Öffne die Tür.,German
+Schließe das Fenster.,German
+Kannst du mir helfen?,German
+How are you?,English
+Good morning,English
+Good evening,English
+Good night,English
+Thank you,English
+You're welcome,English
+See you later,English
+Nice to meet you,English
+Have a nice day,English
+What is your name?,English
+My name is John.,English
+Where do you live?,English
+I live in Pakistan.,English
+I love programming.,English
+Python is easy.,English
+Machine learning is fun.,English
+Artificial Intelligence is amazing.,English
+Open the door.,English
+Close the window.,English
+Can you help me?,English
+آپ کیسے ہیں؟,Urdu
+صبح بخیر,Urdu
+شام بخیر,Urdu
+شب بخیر,Urdu
+شکریہ,Urdu
+خوش آمدید,Urdu
+پھر ملیں گے,Urdu
+آپ سے مل کر خوشی ہوئی۔,Urdu
+آپ کا دن اچھا گزرے۔,Urdu
+آپ کا نام کیا ہے؟,Urdu
+میرا نام علی ہے۔,Urdu
+آپ کہاں رہتے ہیں؟,Urdu
+میں پاکستان میں رہتا ہوں۔,Urdu
+مجھے پروگرامنگ پسند ہے۔,Urdu
+پائتھن آسان ہے۔,Urdu
+مشین لرننگ دلچسپ ہے۔,Urdu
+مصنوعی ذہانت حیرت انگیز ہے۔,Urdu
+دروازہ کھولو۔,Urdu
+کھڑکی بند کرو۔,Urdu
+کیا آپ میری مدد کر سکتے ہیں؟,Urdu
+¿Cómo estás?,Spanish
+Buenos días,Spanish
+Buenas tardes,Spanish
+Buenas noches,Spanish
+Gracias,Spanish
+De nada,Spanish
+Hasta luego,Spanish
+Mucho gusto,Spanish
+Que tengas un buen día,Spanish
+¿Cómo te llamas?,Spanish
+Me llamo Juan.,Spanish
+¿Dónde vives?,Spanish
+Vivo en Pakistán.,Spanish
+Me encanta programar.,Spanish
+Python es fácil.,Spanish
+El aprendizaje automático es divertido.,Spanish
+La inteligencia artificial es increíble.,Spanish
+Abre la puerta.,Spanish
+Cierra la ventana.,Spanish
+¿Puedes ayudarme?,Spanish
+Comment ça va ?,French
+Bonjour,French
+Bonsoir,French
+Bonne nuit,French
+Merci,French
+Je vous en prie.,French
+À bientôt.,French
+Enchanté de vous rencontrer.,French
+Passez une bonne journée.,French
+Comment vous appelez-vous ?,French
+Je m'appelle Jean.,French
+Où habitez-vous ?,French
+J'habite au Pakistan.,French
+J'aime programmer.,French
+Python est facile.,French
+L'apprentissage automatique est amusant.,French
+L'intelligence artificielle est incroyable.,French
+Ouvrez la porte.,French
+Fermez la fenêtre.,French
+Pouvez-vous m'aider ?,French
+Wie geht es dir?,German
+Guten Morgen,German
+Guten Abend,German
+Gute Nacht,German
+Danke,German
+Bitte schön.,German
+Bis später.,German
+Freut mich dich kennenzulernen.,German
+Schönen Tag noch.,German
+Wie heißt du?,German
+Ich heiße Hans.,German
+Wo wohnst du?,German
+Ich wohne in Pakistan.,German
+Ich programmiere gern.,German
+Python ist einfach.,German
+Maschinelles Lernen macht Spaß.,German
+Künstliche Intelligenz ist erstaunlich.,German
+Öffne die Tür.,German
+Schließe das Fenster.,German
+Kannst du mir helfen?,German
+How are you?,English
+Good morning,English
+Good evening,English
+Good night,English
+Thank you,English
+You're welcome,English
+See you later,English
+Nice to meet you,English
+Have a nice day,English
+What is your name?,English
+My name is John.,English
+Where do you live?,English
+I live in Pakistan.,English
+I love programming.,English
+Python is easy.,English
+Machine learning is fun.,English
+Artificial Intelligence is amazing.,English
+Open the door.,English
+Close the window.,English
+Can you help me?,English
+آپ کیسے ہیں؟,Urdu
+صبح بخیر,Urdu
+شام بخیر,Urdu
+شب بخیر,Urdu
+شکریہ,Urdu
+خوش آمدید,Urdu
+پھر ملیں گے,Urdu
+آپ سے مل کر خوشی ہوئی۔,Urdu
+آپ کا دن اچھا گزرے۔,Urdu
+آپ کا نام کیا ہے؟,Urdu
+میرا نام علی ہے۔,Urdu
+آپ کہاں رہتے ہیں؟,Urdu
+میں پاکستان میں رہتا ہوں۔,Urdu
+مجھے پروگرامنگ پسند ہے۔,Urdu
+پائتھن آسان ہے۔,Urdu
+مشین لرننگ دلچسپ ہے۔,Urdu
+مصنوعی ذہانت حیرت انگیز ہے۔,Urdu
+دروازہ کھولو۔,Urdu
+کھڑکی بند کرو۔,Urdu
+کیا آپ میری مدد کر سکتے ہیں؟,Urdu
+¿Cómo estás?,Spanish
+Buenos días,Spanish
+Buenas tardes,Spanish
+Buenas noches,Spanish
+Gracias,Spanish
+De nada,Spanish
+Hasta luego,Spanish
+Mucho gusto,Spanish
+Que tengas un buen día,Spanish
+¿Cómo te llamas?,Spanish
+Me llamo Juan.,Spanish
+¿Dónde vives?,Spanish
+Vivo en Pakistán.,Spanish
+Me encanta programar.,Spanish
+Python es fácil.,Spanish
+El aprendizaje automático es divertido.,Spanish
+La inteligencia artificial es increíble.,Spanish
+Abre la puerta.,Spanish
+Cierra la ventana.,Spanish
+¿Puedes ayudarme?,Spanish
+Comment ça va ?,French
+Bonjour,French
+Bonsoir,French
+Bonne nuit,French
+Merci,French
+Je vous en prie.,French
+À bientôt.,French
+Enchanté de vous rencontrer.,French
+Passez une bonne journée.,French
+Comment vous appelez-vous ?,French
+Je m'appelle Jean.,French
+Où habitez-vous ?,French
+J'habite au Pakistan.,French
+J'aime programmer.,French
+Python est facile.,French
+L'apprentissage automatique est amusant.,French
+L'intelligence artificielle est incroyable.,French
+Ouvrez la porte.,French
+Fermez la fenêtre.,French
+Pouvez-vous m'aider ?,French
+Wie geht es dir?,German
+Guten Morgen,German
+Guten Abend,German
+Gute Nacht,German
+Danke,German
+Bitte schön.,German
+Bis später.,German
+Freut mich dich kennenzulernen.,German
+Schönen Tag noch.,German
+Wie heißt du?,German
+Ich heiße Hans.,German
+Wo wohnst du?,German
+Ich wohne in Pakistan.,German
+Ich programmiere gern.,German
+Python ist einfach.,German
+Maschinelles Lernen macht Spaß.,German
+Künstliche Intelligenz ist erstaunlich.,German
+Öffne die Tür.,German
+Schließe das Fenster.,German
+Kannst du mir helfen?,German
+How are you?,English
+Good morning,English
+Good evening,English
+Good night,English
+Thank you,English
+You're welcome,English
+See you later,English
+Nice to meet you,English
+Have a nice day,English
+What is your name?,English
+My name is John.,English
+Where do you live?,English
+I live in Pakistan.,English
+I love programming.,English
+Python is easy.,English
+Machine learning is fun.,English
+Artificial Intelligence is amazing.,English
+Open the door.,English
+Close the window.,English
+Can you help me?,English
+آپ کیسے ہیں؟,Urdu
+صبح بخیر,Urdu
+شام بخیر,Urdu
+شب بخیر,Urdu
+شکریہ,Urdu
+خوش آمدید,Urdu
+پھر ملیں گے,Urdu
+آپ سے مل کر خوشی ہوئی۔,Urdu
+آپ کا دن اچھا گزرے۔,Urdu
+آپ کا نام کیا ہے؟,Urdu
+میرا نام علی ہے۔,Urdu
+آپ کہاں رہتے ہیں؟,Urdu
+میں پاکستان میں رہتا ہوں۔,Urdu
+مجھے پروگرامنگ پسند ہے۔,Urdu
+پائتھن آسان ہے۔,Urdu
+مشین لرننگ دلچسپ ہے۔,Urdu
+مصنوعی ذہانت حیرت انگیز ہے۔,Urdu
+دروازہ کھولو۔,Urdu
+کھڑکی بند کرو۔,Urdu
+کیا آپ میری مدد کر سکتے ہیں؟,Urdu
+¿Cómo estás?,Spanish
+Buenos días,Spanish
+Buenas tardes,Spanish
+Buenas noches,Spanish
+Gracias,Spanish
+De nada,Spanish
+Hasta luego,Spanish
+Mucho gusto,Spanish
+Que tengas un buen día,Spanish
+¿Cómo te llamas?,Spanish
+Me llamo Juan.,Spanish
+¿Dónde vives?,Spanish
+Vivo en Pakistán.,Spanish
+Me encanta programar.,Spanish
+Python es fácil.,Spanish
+El aprendizaje automático es divertido.,Spanish
+La inteligencia artificial es increíble.,Spanish
+Abre la puerta.,Spanish
+Cierra la ventana.,Spanish
+¿Puedes ayudarme?,Spanish
+Comment ça va ?,French
+Bonjour,French
+Bonsoir,French
+Bonne nuit,French
+Merci,French
+Je vous en prie.,French
+À bientôt.,French
+Enchanté de vous rencontrer.,French
+Passez une bonne journée.,French
+Comment vous appelez-vous ?,French
+Je m'appelle Jean.,French
+Où habitez-vous ?,French
+J'habite au Pakistan.,French
+J'aime programmer.,French
+Python est facile.,French
+L'apprentissage automatique est amusant.,French
+L'intelligence artificielle est incroyable.,French
+Ouvrez la porte.,French
+Fermez la fenêtre.,French
+Pouvez-vous m'aider ?,French
+Wie geht es dir?,German
+Guten Morgen,German
+Guten Abend,German
+Gute Nacht,German
+Danke,German
+Bitte schön.,German
+Bis später.,German
+Freut mich dich kennenzulernen.,German
+Schönen Tag noch.,German
+Wie heißt du?,German
+Ich heiße Hans.,German
+Wo wohnst du?,German
+Ich wohne in Pakistan.,German
+Ich programmiere gern.,German
+Python ist einfach.,German
+Maschinelles Lernen macht Spaß.,German
+Künstliche Intelligenz ist erstaunlich.,German
+Öffne die Tür.,German
+Schließe das Fenster.,German
+Kannst du mir helfen?,German
