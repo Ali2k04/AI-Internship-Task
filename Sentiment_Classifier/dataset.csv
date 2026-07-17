@@ -1,0 +1,601 @@
+Text,Sentiment
+I love this product (sample 1),Positive
+Excellent quality (sample 2),Positive
+Amazing experience (sample 3),Positive
+Very satisfied (sample 4),Positive
+Highly recommended (sample 5),Positive
+The service was fantastic (sample 6),Positive
+Works perfectly (sample 7),Positive
+Great value for money (sample 8),Positive
+Beautiful design (sample 9),Positive
+Fast and reliable (sample 10),Positive
+I love this product (sample 11),Positive
+Excellent quality (sample 12),Positive
+Amazing experience (sample 13),Positive
+Very satisfied (sample 14),Positive
+Highly recommended (sample 15),Positive
+The service was fantastic (sample 16),Positive
+Works perfectly (sample 17),Positive
+Great value for money (sample 18),Positive
+Beautiful design (sample 19),Positive
+Fast and reliable (sample 20),Positive
+I love this product (sample 21),Positive
+Excellent quality (sample 22),Positive
+Amazing experience (sample 23),Positive
+Very satisfied (sample 24),Positive
+Highly recommended (sample 25),Positive
+The service was fantastic (sample 26),Positive
+Works perfectly (sample 27),Positive
+Great value for money (sample 28),Positive
+Beautiful design (sample 29),Positive
+Fast and reliable (sample 30),Positive
+I love this product (sample 31),Positive
+Excellent quality (sample 32),Positive
+Amazing experience (sample 33),Positive
+Very satisfied (sample 34),Positive
+Highly recommended (sample 35),Positive
+The service was fantastic (sample 36),Positive
+Works perfectly (sample 37),Positive
+Great value for money (sample 38),Positive
+Beautiful design (sample 39),Positive
+Fast and reliable (sample 40),Positive
+I love this product (sample 41),Positive
+Excellent quality (sample 42),Positive
+Amazing experience (sample 43),Positive
+Very satisfied (sample 44),Positive
+Highly recommended (sample 45),Positive
+The service was fantastic (sample 46),Positive
+Works perfectly (sample 47),Positive
+Great value for money (sample 48),Positive
+Beautiful design (sample 49),Positive
+Fast and reliable (sample 50),Positive
+I love this product (sample 51),Positive
+Excellent quality (sample 52),Positive
+Amazing experience (sample 53),Positive
+Very satisfied (sample 54),Positive
+Highly recommended (sample 55),Positive
+The service was fantastic (sample 56),Positive
+Works perfectly (sample 57),Positive
+Great value for money (sample 58),Positive
+Beautiful design (sample 59),Positive
+Fast and reliable (sample 60),Positive
+I love this product (sample 61),Positive
+Excellent quality (sample 62),Positive
+Amazing experience (sample 63),Positive
+Very satisfied (sample 64),Positive
+Highly recommended (sample 65),Positive
+The service was fantastic (sample 66),Positive
+Works perfectly (sample 67),Positive
+Great value for money (sample 68),Positive
+Beautiful design (sample 69),Positive
+Fast and reliable (sample 70),Positive
+I love this product (sample 71),Positive
+Excellent quality (sample 72),Positive
+Amazing experience (sample 73),Positive
+Very satisfied (sample 74),Positive
+Highly recommended (sample 75),Positive
+The service was fantastic (sample 76),Positive
+Works perfectly (sample 77),Positive
+Great value for money (sample 78),Positive
+Beautiful design (sample 79),Positive
+Fast and reliable (sample 80),Positive
+I love this product (sample 81),Positive
+Excellent quality (sample 82),Positive
+Amazing experience (sample 83),Positive
+Very satisfied (sample 84),Positive
+Highly recommended (sample 85),Positive
+The service was fantastic (sample 86),Positive
+Works perfectly (sample 87),Positive
+Great value for money (sample 88),Positive
+Beautiful design (sample 89),Positive
+Fast and reliable (sample 90),Positive
+I love this product (sample 91),Positive
+Excellent quality (sample 92),Positive
+Amazing experience (sample 93),Positive
+Very satisfied (sample 94),Positive
+Highly recommended (sample 95),Positive
+The service was fantastic (sample 96),Positive
+Works perfectly (sample 97),Positive
+Great value for money (sample 98),Positive
+Beautiful design (sample 99),Positive
+Fast and reliable (sample 100),Positive
+I love this product (sample 101),Positive
+Excellent quality (sample 102),Positive
+Amazing experience (sample 103),Positive
+Very satisfied (sample 104),Positive
+Highly recommended (sample 105),Positive
+The service was fantastic (sample 106),Positive
+Works perfectly (sample 107),Positive
+Great value for money (sample 108),Positive
+Beautiful design (sample 109),Positive
+Fast and reliable (sample 110),Positive
+I love this product (sample 111),Positive
+Excellent quality (sample 112),Positive
+Amazing experience (sample 113),Positive
+Very satisfied (sample 114),Positive
+Highly recommended (sample 115),Positive
+The service was fantastic (sample 116),Positive
+Works perfectly (sample 117),Positive
+Great value for money (sample 118),Positive
+Beautiful design (sample 119),Positive
+Fast and reliable (sample 120),Positive
+I love this product (sample 121),Positive
+Excellent quality (sample 122),Positive
+Amazing experience (sample 123),Positive
+Very satisfied (sample 124),Positive
+Highly recommended (sample 125),Positive
+The service was fantastic (sample 126),Positive
+Works perfectly (sample 127),Positive
+Great value for money (sample 128),Positive
+Beautiful design (sample 129),Positive
+Fast and reliable (sample 130),Positive
+I love this product (sample 131),Positive
+Excellent quality (sample 132),Positive
+Amazing experience (sample 133),Positive
+Very satisfied (sample 134),Positive
+Highly recommended (sample 135),Positive
+The service was fantastic (sample 136),Positive
+Works perfectly (sample 137),Positive
+Great value for money (sample 138),Positive
+Beautiful design (sample 139),Positive
+Fast and reliable (sample 140),Positive
+I love this product (sample 141),Positive
+Excellent quality (sample 142),Positive
+Amazing experience (sample 143),Positive
+Very satisfied (sample 144),Positive
+Highly recommended (sample 145),Positive
+The service was fantastic (sample 146),Positive
+Works perfectly (sample 147),Positive
+Great value for money (sample 148),Positive
+Beautiful design (sample 149),Positive
+Fast and reliable (sample 150),Positive
+I hate this product (sample 1),Negative
+Terrible quality (sample 2),Negative
+Awful experience (sample 3),Negative
+Very disappointed (sample 4),Negative
+Not recommended (sample 5),Negative
+The service was horrible (sample 6),Negative
+It keeps crashing (sample 7),Negative
+Waste of money (sample 8),Negative
+Poor design (sample 9),Negative
+Slow and unreliable (sample 10),Negative
+I hate this product (sample 11),Negative
+Terrible quality (sample 12),Negative
+Awful experience (sample 13),Negative
+Very disappointed (sample 14),Negative
+Not recommended (sample 15),Negative
+The service was horrible (sample 16),Negative
+It keeps crashing (sample 17),Negative
+Waste of money (sample 18),Negative
+Poor design (sample 19),Negative
+Slow and unreliable (sample 20),Negative
+I hate this product (sample 21),Negative
+Terrible quality (sample 22),Negative
+Awful experience (sample 23),Negative
+Very disappointed (sample 24),Negative
+Not recommended (sample 25),Negative
+The service was horrible (sample 26),Negative
+It keeps crashing (sample 27),Negative
+Waste of money (sample 28),Negative
+Poor design (sample 29),Negative
+Slow and unreliable (sample 30),Negative
+I hate this product (sample 31),Negative
+Terrible quality (sample 32),Negative
+Awful experience (sample 33),Negative
+Very disappointed (sample 34),Negative
+Not recommended (sample 35),Negative
+The service was horrible (sample 36),Negative
+It keeps crashing (sample 37),Negative
+Waste of money (sample 38),Negative
+Poor design (sample 39),Negative
+Slow and unreliable (sample 40),Negative
+I hate this product (sample 41),Negative
+Terrible quality (sample 42),Negative
+Awful experience (sample 43),Negative
+Very disappointed (sample 44),Negative
+Not recommended (sample 45),Negative
+The service was horrible (sample 46),Negative
+It keeps crashing (sample 47),Negative
+Waste of money (sample 48),Negative
+Poor design (sample 49),Negative
+Slow and unreliable (sample 50),Negative
+I hate this product (sample 51),Negative
+Terrible quality (sample 52),Negative
+Awful experience (sample 53),Negative
+Very disappointed (sample 54),Negative
+Not recommended (sample 55),Negative
+The service was horrible (sample 56),Negative
+It keeps crashing (sample 57),Negative
+Waste of money (sample 58),Negative
+Poor design (sample 59),Negative
+Slow and unreliable (sample 60),Negative
+I hate this product (sample 61),Negative
+Terrible quality (sample 62),Negative
+Awful experience (sample 63),Negative
+Very disappointed (sample 64),Negative
+Not recommended (sample 65),Negative
+The service was horrible (sample 66),Negative
+It keeps crashing (sample 67),Negative
+Waste of money (sample 68),Negative
+Poor design (sample 69),Negative
+Slow and unreliable (sample 70),Negative
+I hate this product (sample 71),Negative
+Terrible quality (sample 72),Negative
+Awful experience (sample 73),Negative
+Very disappointed (sample 74),Negative
+Not recommended (sample 75),Negative
+The service was horrible (sample 76),Negative
+It keeps crashing (sample 77),Negative
+Waste of money (sample 78),Negative
+Poor design (sample 79),Negative
+Slow and unreliable (sample 80),Negative
+I hate this product (sample 81),Negative
+Terrible quality (sample 82),Negative
+Awful experience (sample 83),Negative
+Very disappointed (sample 84),Negative
+Not recommended (sample 85),Negative
+The service was horrible (sample 86),Negative
+It keeps crashing (sample 87),Negative
+Waste of money (sample 88),Negative
+Poor design (sample 89),Negative
+Slow and unreliable (sample 90),Negative
+I hate this product (sample 91),Negative
+Terrible quality (sample 92),Negative
+Awful experience (sample 93),Negative
+Very disappointed (sample 94),Negative
+Not recommended (sample 95),Negative
+The service was horrible (sample 96),Negative
+It keeps crashing (sample 97),Negative
+Waste of money (sample 98),Negative
+Poor design (sample 99),Negative
+Slow and unreliable (sample 100),Negative
+I hate this product (sample 101),Negative
+Terrible quality (sample 102),Negative
+Awful experience (sample 103),Negative
+Very disappointed (sample 104),Negative
+Not recommended (sample 105),Negative
+The service was horrible (sample 106),Negative
+It keeps crashing (sample 107),Negative
+Waste of money (sample 108),Negative
+Poor design (sample 109),Negative
+Slow and unreliable (sample 110),Negative
+I hate this product (sample 111),Negative
+Terrible quality (sample 112),Negative
+Awful experience (sample 113),Negative
+Very disappointed (sample 114),Negative
+Not recommended (sample 115),Negative
+The service was horrible (sample 116),Negative
+It keeps crashing (sample 117),Negative
+Waste of money (sample 118),Negative
+Poor design (sample 119),Negative
+Slow and unreliable (sample 120),Negative
+I hate this product (sample 121),Negative
+Terrible quality (sample 122),Negative
+Awful experience (sample 123),Negative
+Very disappointed (sample 124),Negative
+Not recommended (sample 125),Negative
+The service was horrible (sample 126),Negative
+It keeps crashing (sample 127),Negative
+Waste of money (sample 128),Negative
+Poor design (sample 129),Negative
+Slow and unreliable (sample 130),Negative
+I hate this product (sample 131),Negative
+Terrible quality (sample 132),Negative
+Awful experience (sample 133),Negative
+Very disappointed (sample 134),Negative
+Not recommended (sample 135),Negative
+The service was horrible (sample 136),Negative
+It keeps crashing (sample 137),Negative
+Waste of money (sample 138),Negative
+Poor design (sample 139),Negative
+Slow and unreliable (sample 140),Negative
+I hate this product (sample 141),Negative
+Terrible quality (sample 142),Negative
+Awful experience (sample 143),Negative
+Very disappointed (sample 144),Negative
+Not recommended (sample 145),Negative
+The service was horrible (sample 146),Negative
+It keeps crashing (sample 147),Negative
+Waste of money (sample 148),Negative
+Poor design (sample 149),Negative
+Slow and unreliable (sample 150),Negative
+The package arrived today (sample 1),Neutral
+It works as described (sample 2),Neutral
+The color is blue (sample 3),Neutral
+The meeting starts at noon (sample 4),Neutral
+Average performance (sample 5),Neutral
+It has basic features (sample 6),Neutral
+The manual is included (sample 7),Neutral
+The item is available (sample 8),Neutral
+The update was installed (sample 9),Neutral
+Delivery was on time (sample 10),Neutral
+The package arrived today (sample 11),Neutral
+It works as described (sample 12),Neutral
+The color is blue (sample 13),Neutral
+The meeting starts at noon (sample 14),Neutral
+Average performance (sample 15),Neutral
+It has basic features (sample 16),Neutral
+The manual is included (sample 17),Neutral
+The item is available (sample 18),Neutral
+The update was installed (sample 19),Neutral
+Delivery was on time (sample 20),Neutral
+The package arrived today (sample 21),Neutral
+It works as described (sample 22),Neutral
+The color is blue (sample 23),Neutral
+The meeting starts at noon (sample 24),Neutral
+Average performance (sample 25),Neutral
+It has basic features (sample 26),Neutral
+The manual is included (sample 27),Neutral
+The item is available (sample 28),Neutral
+The update was installed (sample 29),Neutral
+Delivery was on time (sample 30),Neutral
+The package arrived today (sample 31),Neutral
+It works as described (sample 32),Neutral
+The color is blue (sample 33),Neutral
+The meeting starts at noon (sample 34),Neutral
+Average performance (sample 35),Neutral
+It has basic features (sample 36),Neutral
+The manual is included (sample 37),Neutral
+The item is available (sample 38),Neutral
+The update was installed (sample 39),Neutral
+Delivery was on time (sample 40),Neutral
+The package arrived today (sample 41),Neutral
+It works as described (sample 42),Neutral
+The color is blue (sample 43),Neutral
+The meeting starts at noon (sample 44),Neutral
+Average performance (sample 45),Neutral
+It has basic features (sample 46),Neutral
+The manual is included (sample 47),Neutral
+The item is available (sample 48),Neutral
+The update was installed (sample 49),Neutral
+Delivery was on time (sample 50),Neutral
+The package arrived today (sample 51),Neutral
+It works as described (sample 52),Neutral
+The color is blue (sample 53),Neutral
+The meeting starts at noon (sample 54),Neutral
+Average performance (sample 55),Neutral
+It has basic features (sample 56),Neutral
+The manual is included (sample 57),Neutral
+The item is available (sample 58),Neutral
+The update was installed (sample 59),Neutral
+Delivery was on time (sample 60),Neutral
+The package arrived today (sample 61),Neutral
+It works as described (sample 62),Neutral
+The color is blue (sample 63),Neutral
+The meeting starts at noon (sample 64),Neutral
+Average performance (sample 65),Neutral
+It has basic features (sample 66),Neutral
+The manual is included (sample 67),Neutral
+The item is available (sample 68),Neutral
+The update was installed (sample 69),Neutral
+Delivery was on time (sample 70),Neutral
+The package arrived today (sample 71),Neutral
+It works as described (sample 72),Neutral
+The color is blue (sample 73),Neutral
+The meeting starts at noon (sample 74),Neutral
+Average performance (sample 75),Neutral
+It has basic features (sample 76),Neutral
+The manual is included (sample 77),Neutral
+The item is available (sample 78),Neutral
+The update was installed (sample 79),Neutral
+Delivery was on time (sample 80),Neutral
+The package arrived today (sample 81),Neutral
+It works as described (sample 82),Neutral
+The color is blue (sample 83),Neutral
+The meeting starts at noon (sample 84),Neutral
+Average performance (sample 85),Neutral
+It has basic features (sample 86),Neutral
+The manual is included (sample 87),Neutral
+The item is available (sample 88),Neutral
+The update was installed (sample 89),Neutral
+Delivery was on time (sample 90),Neutral
+The package arrived today (sample 91),Neutral
+It works as described (sample 92),Neutral
+The color is blue (sample 93),Neutral
+The meeting starts at noon (sample 94),Neutral
+Average performance (sample 95),Neutral
+It has basic features (sample 96),Neutral
+The manual is included (sample 97),Neutral
+The item is available (sample 98),Neutral
+The update was installed (sample 99),Neutral
+Delivery was on time (sample 100),Neutral
+The package arrived today (sample 101),Neutral
+It works as described (sample 102),Neutral
+The color is blue (sample 103),Neutral
+The meeting starts at noon (sample 104),Neutral
+Average performance (sample 105),Neutral
+It has basic features (sample 106),Neutral
+The manual is included (sample 107),Neutral
+The item is available (sample 108),Neutral
+The update was installed (sample 109),Neutral
+Delivery was on time (sample 110),Neutral
+The package arrived today (sample 111),Neutral
+It works as described (sample 112),Neutral
+The color is blue (sample 113),Neutral
+The meeting starts at noon (sample 114),Neutral
+Average performance (sample 115),Neutral
+It has basic features (sample 116),Neutral
+The manual is included (sample 117),Neutral
+The item is available (sample 118),Neutral
+The update was installed (sample 119),Neutral
+Delivery was on time (sample 120),Neutral
+The package arrived today (sample 121),Neutral
+It works as described (sample 122),Neutral
+The color is blue (sample 123),Neutral
+The meeting starts at noon (sample 124),Neutral
+Average performance (sample 125),Neutral
+It has basic features (sample 126),Neutral
+The manual is included (sample 127),Neutral
+The item is available (sample 128),Neutral
+The update was installed (sample 129),Neutral
+Delivery was on time (sample 130),Neutral
+The package arrived today (sample 131),Neutral
+It works as described (sample 132),Neutral
+The color is blue (sample 133),Neutral
+The meeting starts at noon (sample 134),Neutral
+Average performance (sample 135),Neutral
+It has basic features (sample 136),Neutral
+The manual is included (sample 137),Neutral
+The item is available (sample 138),Neutral
+The update was installed (sample 139),Neutral
+Delivery was on time (sample 140),Neutral
+The package arrived today (sample 141),Neutral
+It works as described (sample 142),Neutral
+The color is blue (sample 143),Neutral
+The meeting starts at noon (sample 144),Neutral
+Average performance (sample 145),Neutral
+It has basic features (sample 146),Neutral
+The manual is included (sample 147),Neutral
+The item is available (sample 148),Neutral
+The update was installed (sample 149),Neutral
+Delivery was on time (sample 150),Neutral
+I like the design but the battery is poor (sample 1),Mixed
+Great features but expensive (sample 2),Mixed
+Fast performance but heats up (sample 3),Mixed
+Good quality but late delivery (sample 4),Mixed
+Helpful staff but slow service (sample 5),Mixed
+The camera is nice but storage is limited (sample 6),Mixed
+Easy to use but crashes sometimes (sample 7),Mixed
+Looks good but feels cheap (sample 8),Mixed
+Affordable but battery drains quickly (sample 9),Mixed
+Comfortable but heavy (sample 10),Mixed
+I like the design but the battery is poor (sample 11),Mixed
+Great features but expensive (sample 12),Mixed
+Fast performance but heats up (sample 13),Mixed
+Good quality but late delivery (sample 14),Mixed
+Helpful staff but slow service (sample 15),Mixed
+The camera is nice but storage is limited (sample 16),Mixed
+Easy to use but crashes sometimes (sample 17),Mixed
+Looks good but feels cheap (sample 18),Mixed
+Affordable but battery drains quickly (sample 19),Mixed
+Comfortable but heavy (sample 20),Mixed
+I like the design but the battery is poor (sample 21),Mixed
+Great features but expensive (sample 22),Mixed
+Fast performance but heats up (sample 23),Mixed
+Good quality but late delivery (sample 24),Mixed
+Helpful staff but slow service (sample 25),Mixed
+The camera is nice but storage is limited (sample 26),Mixed
+Easy to use but crashes sometimes (sample 27),Mixed
+Looks good but feels cheap (sample 28),Mixed
+Affordable but battery drains quickly (sample 29),Mixed
+Comfortable but heavy (sample 30),Mixed
+I like the design but the battery is poor (sample 31),Mixed
+Great features but expensive (sample 32),Mixed
+Fast performance but heats up (sample 33),Mixed
+Good quality but late delivery (sample 34),Mixed
+Helpful staff but slow service (sample 35),Mixed
+The camera is nice but storage is limited (sample 36),Mixed
+Easy to use but crashes sometimes (sample 37),Mixed
+Looks good but feels cheap (sample 38),Mixed
+Affordable but battery drains quickly (sample 39),Mixed
+Comfortable but heavy (sample 40),Mixed
+I like the design but the battery is poor (sample 41),Mixed
+Great features but expensive (sample 42),Mixed
+Fast performance but heats up (sample 43),Mixed
+Good quality but late delivery (sample 44),Mixed
+Helpful staff but slow service (sample 45),Mixed
+The camera is nice but storage is limited (sample 46),Mixed
+Easy to use but crashes sometimes (sample 47),Mixed
+Looks good but feels cheap (sample 48),Mixed
+Affordable but battery drains quickly (sample 49),Mixed
+Comfortable but heavy (sample 50),Mixed
+I like the design but the battery is poor (sample 51),Mixed
+Great features but expensive (sample 52),Mixed
+Fast performance but heats up (sample 53),Mixed
+Good quality but late delivery (sample 54),Mixed
+Helpful staff but slow service (sample 55),Mixed
+The camera is nice but storage is limited (sample 56),Mixed
+Easy to use but crashes sometimes (sample 57),Mixed
+Looks good but feels cheap (sample 58),Mixed
+Affordable but battery drains quickly (sample 59),Mixed
+Comfortable but heavy (sample 60),Mixed
+I like the design but the battery is poor (sample 61),Mixed
+Great features but expensive (sample 62),Mixed
+Fast performance but heats up (sample 63),Mixed
+Good quality but late delivery (sample 64),Mixed
+Helpful staff but slow service (sample 65),Mixed
+The camera is nice but storage is limited (sample 66),Mixed
+Easy to use but crashes sometimes (sample 67),Mixed
+Looks good but feels cheap (sample 68),Mixed
+Affordable but battery drains quickly (sample 69),Mixed
+Comfortable but heavy (sample 70),Mixed
+I like the design but the battery is poor (sample 71),Mixed
+Great features but expensive (sample 72),Mixed
+Fast performance but heats up (sample 73),Mixed
+Good quality but late delivery (sample 74),Mixed
+Helpful staff but slow service (sample 75),Mixed
+The camera is nice but storage is limited (sample 76),Mixed
+Easy to use but crashes sometimes (sample 77),Mixed
+Looks good but feels cheap (sample 78),Mixed
+Affordable but battery drains quickly (sample 79),Mixed
+Comfortable but heavy (sample 80),Mixed
+I like the design but the battery is poor (sample 81),Mixed
+Great features but expensive (sample 82),Mixed
+Fast performance but heats up (sample 83),Mixed
+Good quality but late delivery (sample 84),Mixed
+Helpful staff but slow service (sample 85),Mixed
+The camera is nice but storage is limited (sample 86),Mixed
+Easy to use but crashes sometimes (sample 87),Mixed
+Looks good but feels cheap (sample 88),Mixed
+Affordable but battery drains quickly (sample 89),Mixed
+Comfortable but heavy (sample 90),Mixed
+I like the design but the battery is poor (sample 91),Mixed
+Great features but expensive (sample 92),Mixed
+Fast performance but heats up (sample 93),Mixed
+Good quality but late delivery (sample 94),Mixed
+Helpful staff but slow service (sample 95),Mixed
+The camera is nice but storage is limited (sample 96),Mixed
+Easy to use but crashes sometimes (sample 97),Mixed
+Looks good but feels cheap (sample 98),Mixed
+Affordable but battery drains quickly (sample 99),Mixed
+Comfortable but heavy (sample 100),Mixed
+I like the design but the battery is poor (sample 101),Mixed
+Great features but expensive (sample 102),Mixed
+Fast performance but heats up (sample 103),Mixed
+Good quality but late delivery (sample 104),Mixed
+Helpful staff but slow service (sample 105),Mixed
+The camera is nice but storage is limited (sample 106),Mixed
+Easy to use but crashes sometimes (sample 107),Mixed
+Looks good but feels cheap (sample 108),Mixed
+Affordable but battery drains quickly (sample 109),Mixed
+Comfortable but heavy (sample 110),Mixed
+I like the design but the battery is poor (sample 111),Mixed
+Great features but expensive (sample 112),Mixed
+Fast performance but heats up (sample 113),Mixed
+Good quality but late delivery (sample 114),Mixed
+Helpful staff but slow service (sample 115),Mixed
+The camera is nice but storage is limited (sample 116),Mixed
+Easy to use but crashes sometimes (sample 117),Mixed
+Looks good but feels cheap (sample 118),Mixed
+Affordable but battery drains quickly (sample 119),Mixed
+Comfortable but heavy (sample 120),Mixed
+I like the design but the battery is poor (sample 121),Mixed
+Great features but expensive (sample 122),Mixed
+Fast performance but heats up (sample 123),Mixed
+Good quality but late delivery (sample 124),Mixed
+Helpful staff but slow service (sample 125),Mixed
+The camera is nice but storage is limited (sample 126),Mixed
+Easy to use but crashes sometimes (sample 127),Mixed
+Looks good but feels cheap (sample 128),Mixed
+Affordable but battery drains quickly (sample 129),Mixed
+Comfortable but heavy (sample 130),Mixed
+I like the design but the battery is poor (sample 131),Mixed
+Great features but expensive (sample 132),Mixed
+Fast performance but heats up (sample 133),Mixed
+Good quality but late delivery (sample 134),Mixed
+Helpful staff but slow service (sample 135),Mixed
+The camera is nice but storage is limited (sample 136),Mixed
+Easy to use but crashes sometimes (sample 137),Mixed
+Looks good but feels cheap (sample 138),Mixed
+Affordable but battery drains quickly (sample 139),Mixed
+Comfortable but heavy (sample 140),Mixed
+I like the design but the battery is poor (sample 141),Mixed
+Great features but expensive (sample 142),Mixed
+Fast performance but heats up (sample 143),Mixed
+Good quality but late delivery (sample 144),Mixed
+Helpful staff but slow service (sample 145),Mixed
+The camera is nice but storage is limited (sample 146),Mixed
+Easy to use but crashes sometimes (sample 147),Mixed
+Looks good but feels cheap (sample 148),Mixed
+Affordable but battery drains quickly (sample 149),Mixed
+Comfortable but heavy (sample 150),Mixed
