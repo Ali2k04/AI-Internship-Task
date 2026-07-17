@@ -1,0 +1,6 @@
+model,method,accuracy,train_time,best_params,accuracy_pct
+Logistic Regression,Before Tuning (default params),0.8611111111111112,0.008,-,86.11
+Logistic Regression,GridSearchCV,0.9166666666666666,1.006,"{'clf__C': 10, 'clf__solver': 'liblinear', 'tfidf__max_df': 0.85, 'tfidf__ngram_range': (1, 2)}",91.67
+Logistic Regression,RandomizedSearchCV,0.9166666666666666,0.74,"{'tfidf__ngram_range': (1, 2), 'tfidf__min_df': 1, 'tfidf__max_df': 0.85, 'clf__solver': 'liblinear', 'clf__penalty': 'l2', 'clf__C': 10}",91.67
+SVM (LinearSVC),GridSearchCV,0.9166666666666666,0.284,"{'clf__C': 1, 'tfidf__ngram_range': (1, 2)}",91.67
+Naive Bayes,GridSearchCV,0.9166666666666666,0.293,"{'clf__alpha': 2.0, 'tfidf__ngram_range': (1, 2)}",91.67
