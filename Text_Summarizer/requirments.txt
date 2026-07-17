@@ -1,0 +1,9 @@
+transformers
+torch
+sentencepiece
+nltk
+spacy
+scikit-learn
+pandas
+rouge-score
+tabulate
