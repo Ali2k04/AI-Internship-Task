@@ -1,0 +1,61 @@
+item_id,title,year,genres,tags,combined_features
+1,The Crimson Kingdom,2018,Documentary,blockbuster|fast-paced|witty,Documentary blockbuster fast-paced witty 2018
+2,The Silent Dream,2001,Adventure|Mystery|Thriller,dark|emotional,Adventure Mystery Thriller dark emotional 2001
+3,The Golden River,2020,Action|Drama|SciFi,epic|underrated|visually-stunning|witty,Action Drama SciFi epic underrated visually-stunning witty 2020
+4,The Sacred Horizon,2025,Documentary,epic|fast-paced|twist-ending|witty,Documentary epic fast-paced twist-ending witty 2025
+5,The Frozen Legacy,2003,Adventure,emotional|indie|twist-ending|underrated,Adventure emotional indie twist-ending underrated 2003
+6,The Frozen Horizon,2014,Adventure|SciFi,based-on-true-story|emotional|epic|slow-burn,Adventure SciFi based-on-true-story emotional epic slow-burn 2014
+7,The Wandering Signal,2002,Drama|Thriller,based-on-true-story|dark,Drama Thriller based-on-true-story dark 2002
+8,The Frozen Echo,2003,Family,emotional|feel-good|indie,Family emotional feel-good indie 2003
+9,The Eternal Dream,2017,Comedy|Horror,based-on-true-story|epic|witty,Comedy Horror based-on-true-story epic witty 2017
+10,The Wandering Dream,2000,Thriller,cult-classic|slow-burn|witty,Thriller cult-classic slow-burn witty 2000
+11,The Eternal Storm,2019,Animation|Musical,award-winning|based-on-true-story|twist-ending,Animation Musical award-winning based-on-true-story twist-ending 2019
+12,The Lost Shadow,2001,Crime,emotional|epic|feel-good,Crime emotional epic feel-good 2001
+13,The Wandering City,2003,Animation|Drama,based-on-true-story|fast-paced|feel-good|visually-stunning,Animation Drama based-on-true-story fast-paced feel-good visually-stunning 2003
+14,The Broken Shadow,2002,Documentary|Fantasy|SciFi,blockbuster|feel-good|twist-ending|underrated,Documentary Fantasy SciFi blockbuster feel-good twist-ending underrated 2002
+15,The Broken River,1999,Adventure|Crime,emotional|indie,Adventure Crime emotional indie 1999
+16,The Crimson Journey,2003,Adventure|Thriller,feel-good|slow-burn|underrated|visually-stunning,Adventure Thriller feel-good slow-burn underrated visually-stunning 2003
+17,The Forgotten Signal,2019,Animation,based-on-true-story|slow-burn,Animation based-on-true-story slow-burn 2019
+18,The Last Empire,2023,Adventure|Fantasy,cult-classic|dark|fast-paced|visually-stunning,Adventure Fantasy cult-classic dark fast-paced visually-stunning 2023
+19,The Shattered Echo,2004,Comedy|Crime|SciFi,based-on-true-story|indie,Comedy Crime SciFi based-on-true-story indie 2004
+20,The Sacred Dream,2025,Comedy|Drama|Thriller,award-winning|fast-paced|slow-burn,Comedy Drama Thriller award-winning fast-paced slow-burn 2025
+21,The Frozen Harbor,2024,Action|Musical|Thriller,dark|emotional|visually-stunning,Action Musical Thriller dark emotional visually-stunning 2024
+22,The Hidden Harbor,1997,Action|Drama,blockbuster|emotional|underrated,Action Drama blockbuster emotional underrated 1997
+23,The Shattered Garden,2025,Crime,based-on-true-story|fast-paced|visually-stunning,Crime based-on-true-story fast-paced visually-stunning 2025
+24,The Forgotten Journey,2017,Family|SciFi,award-winning|cult-classic|slow-burn|witty,Family SciFi award-winning cult-classic slow-burn witty 2017
+25,The Golden Flame,1998,Animation|Mystery,blockbuster|slow-burn|visually-stunning,Animation Mystery blockbuster slow-burn visually-stunning 1998
+26,The Golden Shadow,2002,Horror,slow-burn|underrated,Horror slow-burn underrated 2002
+27,The Midnight Shadow,2023,Adventure,emotional|witty,Adventure emotional witty 2023
+28,The Lost Signal,2001,Adventure|SciFi,based-on-true-story|epic|visually-stunning,Adventure SciFi based-on-true-story epic visually-stunning 2001
+29,The Shattered Harbor,1998,Drama|Romance|Thriller,award-winning|emotional|feel-good|witty,Drama Romance Thriller award-winning emotional feel-good witty 1998
+30,The Crimson Storm,2015,Musical|Mystery,based-on-true-story|cult-classic|dark|indie,Musical Mystery based-on-true-story cult-classic dark indie 2015
+31,The Lost Storm,2001,Crime|Family,blockbuster|witty,Crime Family blockbuster witty 2001
+32,The Forgotten Garden,2022,Mystery,epic|visually-stunning|witty,Mystery epic visually-stunning witty 2022
+33,The Wandering Kingdom,2012,Crime|Family,based-on-true-story|dark,Crime Family based-on-true-story dark 2012
+34,The Silent Harbor,2023,Comedy,blockbuster|feel-good|visually-stunning|witty,Comedy blockbuster feel-good visually-stunning witty 2023
+35,The Lost Journey,2009,Action|Mystery,award-winning|blockbuster|indie,Action Mystery award-winning blockbuster indie 2009
+36,The Last Storm,2025,Animation|Documentary|Romance,blockbuster|epic|witty,Animation Documentary Romance blockbuster epic witty 2025
+37,The Lost City,2010,Action|Documentary|Horror,dark|underrated,Action Documentary Horror dark underrated 2010
+38,The Forgotten Harbor,1997,Action|Comedy|SciFi,fast-paced|indie,Action Comedy SciFi fast-paced indie 1997
+39,The Midnight Kingdom,2002,Mystery,blockbuster|underrated,Mystery blockbuster underrated 2002
+40,The Midnight City,2013,Thriller,based-on-true-story|feel-good,Thriller based-on-true-story feel-good 2013
+41,The Midnight River,2002,Fantasy|Musical,based-on-true-story|cult-classic|twist-ending,Fantasy Musical based-on-true-story cult-classic twist-ending 2002
+42,The Broken Dream,2014,Horror|Romance,dark|visually-stunning,Horror Romance dark visually-stunning 2014
+43,The Silent River,2023,SciFi,emotional|fast-paced|twist-ending,SciFi emotional fast-paced twist-ending 2023
+44,The Golden Legacy,2011,Comedy|Romance,award-winning|based-on-true-story|underrated,Comedy Romance award-winning based-on-true-story underrated 2011
+45,The Lost Dream,2018,Adventure|Animation|Fantasy,emotional|epic|indie,Adventure Animation Fantasy emotional epic indie 2018
+46,The Last Echo,2011,Documentary|Drama|Horror,based-on-true-story|blockbuster|epic,Documentary Drama Horror based-on-true-story blockbuster epic 2011
+47,The Eternal Echo,2005,Adventure,award-winning|dark|epic|indie,Adventure award-winning dark epic indie 2005
+48,The Frozen Journey,1995,Comedy|Documentary,blockbuster|cult-classic|feel-good|slow-burn,Comedy Documentary blockbuster cult-classic feel-good slow-burn 1995
+49,The Silent Kingdom,2013,SciFi,indie|twist-ending,SciFi indie twist-ending 2013
+50,The Distant Journey,2023,Fantasy,award-winning|blockbuster|dark,Fantasy award-winning blockbuster dark 2023
+51,The Hidden Shadow,2012,Animation,award-winning|twist-ending,Animation award-winning twist-ending 2012
+52,The Distant City,2020,Musical,award-winning|fast-paced|indie,Musical award-winning fast-paced indie 2020
+53,The Broken Harbor,2016,Action|Comedy,award-winning|blockbuster|feel-good,Action Comedy award-winning blockbuster feel-good 2016
+54,The Sacred Flame,2007,Fantasy,award-winning|cult-classic|emotional,Fantasy award-winning cult-classic emotional 2007
+55,The Sacred Garden,2002,Drama,award-winning|epic|twist-ending|witty,Drama award-winning epic twist-ending witty 2002
+56,The Golden Storm,2006,Family|Fantasy,award-winning|epic,Family Fantasy award-winning epic 2006
+57,The Crimson River,2000,Animation|Family,dark|emotional|epic,Animation Family dark emotional epic 2000
+58,The Midnight Echo,2008,Adventure,award-winning|blockbuster|cult-classic|twist-ending,Adventure award-winning blockbuster cult-classic twist-ending 2008
+59,The Silent Storm,2016,Action|Drama|Fantasy,award-winning|dark|indie|slow-burn,Action Drama Fantasy award-winning dark indie slow-burn 2016
+60,The Shattered Flame,2005,Horror,based-on-true-story|emotional|twist-ending|underrated,Horror based-on-true-story emotional twist-ending underrated 2005
