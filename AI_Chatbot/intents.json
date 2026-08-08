@@ -1,0 +1,38 @@
+{
+  "greeting": {
+    "examples": ["hi", "hello", "hey", "good morning", "good evening", "hey there", "what's up", "howdy"],
+    "responses": ["Hello! How can I help you today?", "Hi there! What can I do for you?", "Hey! Nice to see you."]
+  },
+  "goodbye": {
+    "examples": ["bye", "see you", "goodbye", "see you later", "talk to you later", "catch you later", "farewell"],
+    "responses": ["Goodbye! Have a nice day!", "See you soon!", "Take care!"]
+  },
+  "thanks": {
+    "examples": ["thanks", "thank you", "thanks a lot", "appreciate it", "thank you so much"],
+    "responses": ["You're welcome!", "Happy to help!", "Anytime!"]
+  },
+  "weather": {
+    "examples": ["weather today", "is it hot?", "what's the weather", "will it rain today", "how's the weather", "temperature today", "is it sunny"],
+    "responses": ["Please tell me your city and I will look up the weather."]
+  },
+  "name": {
+    "examples": ["what is your name", "who are you", "what should i call you", "tell me your name"],
+    "responses": ["I am your AI assistant, built to help answer your questions."]
+  },
+  "help": {
+    "examples": ["help me", "what can you do", "i need help", "can you help me", "what are your features"],
+    "responses": ["I can chat with you, answer simple questions, remember context, and even tell you about the weather once you give me a city."]
+  },
+  "hours": {
+    "examples": ["what are your hours", "when are you open", "what time do you open", "business hours"],
+    "responses": ["We're open 24/7 since I'm an AI assistant!"]
+  },
+  "affirmation": {
+    "examples": ["yes", "yeah", "sure", "of course", "ok", "okay", "yup"],
+    "responses": ["Great, let's continue."]
+  },
+  "negation": {
+    "examples": ["no", "nope", "not really", "no thanks"],
+    "responses": ["Alright, no problem."]
+  }
+}
