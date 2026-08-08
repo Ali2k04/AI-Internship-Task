@@ -1,0 +1,157 @@
+text,intent
+hi,greeting
+hello,greeting
+hey there,greeting
+good morning,greeting
+good evening,greeting
+good afternoon,greeting
+hiya,greeting
+yo,greeting
+hey,greeting
+what's up,greeting
+morning,greeting
+hi there,greeting
+hello there,greeting
+greetings,greeting
+hey how are you,greeting
+nice to meet you,greeting
+hi how is it going,greeting
+hello everyone,greeting
+hey buddy,greeting
+good day,greeting
+bye,goodbye
+goodbye,goodbye
+see you later,goodbye
+catch you later,goodbye
+talk to you soon,goodbye
+take care,goodbye
+i'm leaving now,goodbye
+farewell,goodbye
+gotta go,goodbye
+see ya,goodbye
+bye bye,goodbye
+i have to go now,goodbye
+see you tomorrow,goodbye
+have a good night,goodbye
+until next time,goodbye
+i am signing off,goodbye
+that's all for now bye,goodbye
+i will talk to you later,goodbye
+catch you tomorrow,goodbye
+see you around,goodbye
+order pizza,food_order
+i want food,food_order
+can i get a burger,food_order
+i would like to order a sandwich,food_order
+get me some fries,food_order
+i'm hungry order me something,food_order
+place an order for sushi,food_order
+i want to order chicken wings,food_order
+can you order a pasta for me,food_order
+send me a large pizza,food_order
+i'd like to order some noodles,food_order
+order me a burrito,food_order
+can you get me some tacos,food_order
+i want to order a salad,food_order
+please order dinner for me,food_order
+i need to order lunch,food_order
+order two coffees please,food_order
+can you place a food order,food_order
+i want fried chicken delivered,food_order
+get me a cheeseburger and fries,food_order
+weather today,weather
+is it raining,weather
+what's the weather like,weather
+will it be sunny tomorrow,weather
+is it cold outside,weather
+what is the temperature right now,weather
+do i need an umbrella today,weather
+how's the weather in new york,weather
+is it going to snow,weather
+tell me the weather forecast,weather
+what's the temperature outside,weather
+is it windy today,weather
+will it rain this weekend,weather
+how hot is it today,weather
+check the weather for me,weather
+is a storm coming,weather
+what is tomorrow's forecast,weather
+is it humid today,weather
+tell me if it will be cloudy,weather
+how's the weather this week,weather
+what is your name,name
+who are you,name
+tell me your name,name
+what should i call you,name
+do you have a name,name
+what's your name,name
+introduce yourself,name
+who am i talking to,name
+what do people call you,name
+can you tell me who you are,name
+i want to know your name,name
+what is your identity,name
+please introduce yourself to me,name
+who exactly are you,name
+do you have a nickname,name
+say your name please,name
+thank you,thanks
+thanks a lot,thanks
+thank you so much,thanks
+appreciate it,thanks
+thanks for the help,thanks
+much appreciated,thanks
+cheers,thanks
+i can't thank you enough,thanks
+thanks a bunch,thanks
+that was very helpful thank you,thanks
+i really appreciate your help,thanks
+thank you for your assistance,thanks
+many thanks,thanks
+thanks so much for that,thanks
+you're a lifesaver thanks,thanks
+help me,help
+i need help,help
+can you help me,help
+i'm stuck can you assist,help
+what can you do,help
+how do i use this,help
+i need assistance,help
+give me some guidance,help
+i don't understand can you explain,help
+can you walk me through this,help
+i'm confused please help,help
+show me how this works,help
+what are my options here,help
+can you support me with this,help
+i require some assistance,help
+book a flight,booking
+i want to book a hotel,booking
+reserve a table for two,booking
+book a cab for me,booking
+i need to reserve a room,booking
+can you book tickets for the movie,booking
+schedule a flight to london,booking
+reserve a flight for next monday,booking
+book me a table at a restaurant,booking
+i want to reserve a hotel room,booking
+can you arrange a taxi,booking
+book two seats for the concert,booking
+i need a reservation for dinner,booking
+can you book a train ticket,booking
+schedule an appointment for me,booking
+how much does this cost,price_query
+what is the price,price_query
+how much is it,price_query
+tell me the cost,price_query
+what's the price of this item,price_query
+is this expensive,price_query
+how much do i need to pay,price_query
+what's the total cost,price_query
+can you tell me the price,price_query
+how expensive is this,price_query
+what does this item cost,price_query
+give me the pricing details,price_query
+is there a discount available,price_query
+how much will this cost me,price_query
+what's the price range,price_query

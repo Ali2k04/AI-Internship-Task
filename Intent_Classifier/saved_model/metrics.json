@@ -1,0 +1,12 @@
+{
+  "logistic_regression": {
+    "accuracy": 0.7435897435897436
+  },
+  "naive_bayes": {
+    "accuracy": 0.7948717948717948
+  },
+  "linear_svm": {
+    "accuracy": 0.7435897435897436
+  },
+  "best_model": "naive_bayes"
+}
